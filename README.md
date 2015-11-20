@@ -16,32 +16,30 @@ In many scientific domains, the primary form of knowledge dissemination is throu
 
 ### Agenda
 
-1) Introduction
+#### 1) Introduction
 
-2) Basics
+#### 2) Basics
 
-a) [quick start with UNIX tools](2a_basics_unix_tools/unix_tools.ipynb)
-b*) regular expressions
-c) know your text editor
+* a) [quick start with UNIX tools](2a_basics_unix_tools/unix_tools.ipynb)
+* b*) regular expressions (https://regex101.com)
+* c) know your text editor (https://www.youtube.com/watch?v=ZYuBVN-gUcE) and (https://www.youtube.com/watch?v=86LR8eYLn84)
 
-3) Data acquisition
+#### 3) Data acquisition
 
-a) strategy, considerations, copyrights
-b*) [crawling data from an API (PubMed)](3b_pubmed_rest_api/pubmed_rest_api_client.ipynb)
-c*) [scraping data from a website](3c_pubmed_crawl_webpage/pubmed_crawl_webpage.ipynb)
+* a) strategy, considerations, copyrights
+* b*) [crawling data from an API (PubMed)](3b_pubmed_rest_api/pubmed_rest_api_client.ipynb)
+* c*) [scraping data from a website](3c_pubmed_crawl_webpage/pubmed_crawl_webpage.ipynb)
 
-4) Data processing
+#### 4) Data processing
 
-a*) parsing, selecting and transforming data with Pandas
-b*) extracting text from pdfs
-c*) text processing with NLTK
-d*) full-text search with Elasticsearch
+* a*) text processing with NLTK
+* b*) full-text search with Elasticsearch
 
-5) Data presentation
+#### 5) Data presentation
 
-a*) a simple website to present data & gather user feedback
-b) data presentation frameworks
+* a*) a simple website to present data & gather user feedback
+* b) data presentation frameworks
 
-6) Your usecases
+#### 6) Your usecases
 
 Each participant will take 5 min (alone or in small groups) to present a text-mining project that is relevant to her/his work. We will then briefly discuss together potential strategies and solutions.
