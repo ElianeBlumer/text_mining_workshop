@@ -21,8 +21,8 @@ In many scientific domains, the primary form of knowledge dissemination is throu
 #### 2) Basics
 
 * a) [quick start with UNIX tools](2a_basics_unix_tools/unix_tools.ipynb)
-* b*) regular expressions (https://regex101.com)
-* c) know your text editor (https://www.youtube.com/watch?v=ZYuBVN-gUcE) and (https://www.youtube.com/watch?v=86LR8eYLn84)
+* b) regular expressions (https://regex101.com)
+* c) know your text editor (https://www.youtube.com/watch?v=86LR8eYLn84)
 
 #### 3) Data acquisition
 
@@ -32,14 +32,12 @@ In many scientific domains, the primary form of knowledge dissemination is throu
 
 #### 4) Data processing
 
-* a*) text processing with NLTK
-* b*) full-text search with Elasticsearch
+* a*) [text processing with NLTK](4a_text_processing_nltk/text_processing_nltk.ipynb)
+* b*) [full-text search with Elasticsearch](4b_fulltext_elasticsearch/full_text_elasticsearch.ipynb)
+* c*) [semantic similarity with word2vec](4c_semantic_similarity_word2vec/semantic_similarity_word2vec.ipynb)
 
-#### 5) Data presentation
+#### 5) Your usecases
 
-* a*) a simple website to present data & gather user feedback
-* b) data presentation frameworks
-
-#### 6) Your usecases
-
-Each participant will take 5 min (alone or in small groups) to present a text-mining project that is relevant to her/his work. We will then briefly discuss together potential strategies and solutions.
+* You shall take 5 min (in small groups of 2-5) to present a text-mining project that is relevant to your work
+* We will then briefly discuss together potential strategies and solutions.
+* [template](5_your_usecases/usecase_template.pptx)
