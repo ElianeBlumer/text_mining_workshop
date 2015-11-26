@@ -21,7 +21,7 @@ In many scientific domains, the primary form of knowledge dissemination is throu
 #### 2) Basics
 
 * a) [quick start with UNIX tools](2a_basics_unix_tools/unix_tools.ipynb)
-* b) regular expressions (https://regex101.com)
+* b) [regular expressions](2b_regular_expressions.txt)
 * c) know your text editor (https://www.youtube.com/watch?v=86LR8eYLn84)
 
 #### 3) Data acquisition

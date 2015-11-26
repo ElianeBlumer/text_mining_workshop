@@ -1,0 +1,35 @@
+############
+# Regexes  #
+############
+
+Helpful: https://regex101.com
+
+
+Match all lines that start with `The` or `the`
+----------------------------------------------
+
+the red car
+tHe reD caR
+one red car
+but the red car
+The blue lion
+Therefore, I am
+
+
+Trimming multiple spaces
+------------------------
+
+woops it looks  like   I did  missed a few spaces!
+
+
+Match the "interesting part" before the "neuron"
+------------------------------------------------
+
+
+bla bla bla fast-spiking neuron bla bla
+bla bla bla slow adapting neurons bla bla
+bla bla bla adapting neurons bla bla
+bla bla bla non-accomodating neurons bla bla
+bla bla bla rapid firing neurons bla bla
+
+
