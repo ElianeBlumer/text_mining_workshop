@@ -34,8 +34,8 @@ In many scientific domains, the primary form of knowledge dissemination is throu
 
 * a*) [text processing with NLTK](4a_text_processing_nltk/text_processing_nltk.ipynb)
 * b*) [full-text search with Elasticsearch](4b_fulltext_elasticsearch/full_text_elasticsearch.ipynb)
-* c*) [a sense of machine learning](4d_a_sense_of_machine_learning/a_sense_of_machine_learning.ipynb)
-* d*) [semantic similarity with word2vec](4c_semantic_similarity_word2vec/semantic_similarity_word2vec.ipynb)
+* c*) [a sense of machine learning](4c_a_sense_of_machine_learning/a_sense_of_machine_learning.ipynb)
+* d*) [semantic similarity with word2vec](4d_semantic_similarity_word2vec/word2vec.ipynb)
 
 #### 5) Your usecases
 
